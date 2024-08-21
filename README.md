@@ -26,3 +26,4 @@ Once you check out the code from GitHub, you can build it using Maven. Use the f
 * Support multi primaryKey column for Timeline Identifier.
 * Support 2 kinds of sequence id, AUTO_INCREMENT and MANUAL.
 * Compatible with Timeline 1.X, and [Click here for sample code](src/test/java/examples/v2/FitForTimelineV1.java).
+* [论坛](https://developer.aliyun.com/article/253242)
